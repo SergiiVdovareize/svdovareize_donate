@@ -57,6 +57,10 @@
 		background-color: #FFF401;
 		height: 100%;
 	}
+
+	.nowrap {
+		white-space: nowrap;
+	}
 	
 	.container {
 		height: 100%;
@@ -161,6 +165,11 @@
 		font-size: 1rem;
 		padding-bottom: 0.5rem;
 		line-height: 1.4;
+	}
+
+	.number-recipient {
+		font-style: italic;
+		color: #787878;
 	}
 	
 	#copied-description {
@@ -279,7 +288,7 @@
 			max-height: 400px;
 		}
 		.content.medium {
-			max-height: 420px;
+			max-height: 450px;
 		}
 		.content.long {
 			max-height: 440px !important;
