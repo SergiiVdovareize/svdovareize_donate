@@ -208,9 +208,15 @@
 	
 	@media (min-width: 360px) {
 		html {
-			font-size: 16px;
+			font-size: 14px;
 		}
 	
+		.content.short,
+		.content.medium,
+		.content.long {
+			max-height: 580px;
+		}
+
 		.card-number::after {
 			width: 20px;
 			height: 20px;
