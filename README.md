@@ -1,4 +1,5 @@
 # 💛 Support Ukraine 💙
 
-## See https://svdovareize.uasupport.live
+## See https://reb.vdovareize.me
+
 
